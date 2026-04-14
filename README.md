@@ -212,7 +212,7 @@ If you use this work, please cite:
 
 **Lalitaditya Tickoo**
 
-B.Tech Computer Science (AI/ML) — SRM University, 4th Semester
+B.Tech Computer Science — SRM University, 4th Semester
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lalitaditya--tickoo-black?style=flat-square&logo=github)](https://github.com/Lalitaditya-tickoo)
 [![Email](https://img.shields.io/badge/Email-lalitaditya011@gmail.com-red?style=flat-square&logo=gmail)](mailto:lalitaditya011@gmail.com)
