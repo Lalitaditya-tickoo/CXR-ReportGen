@@ -1,0 +1,11 @@
+torch>=2.0
+transformers==4.40.0
+peft==0.10.0
+timm==0.9.16
+rouge-score
+nltk
+sacremoses
+accelerate
+sentencepiece
+Pillow
+matplotlib
